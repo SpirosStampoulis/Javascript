@@ -92,7 +92,7 @@ console.log(typeof x);
 /*****************************
 * Operator precedence
 */
-
+/*
 var now = 2018;
 var yearJohn = 1989;
 var fullAge = 18;
@@ -120,7 +120,7 @@ x += 10;
 console.log(x);
 x--;
 console.log(x);
-
+*/
 
 
 
@@ -138,7 +138,7 @@ Mark and John are trying to compare their BMI (Body Mass Index), which is calcul
 
 GOOD LUCK 😀
 */
-/*
+
 var massMark = 78; // kg
 var heightMark = 1.69; // meters
 
@@ -151,7 +151,7 @@ console.log(BMIMark, BMIJohn);
 
 var markHigherBMI = BMIMark > BMIJohn;
 console.log('Is Mark\'s BMI higher than John\'s? ' + markHigherBMI);
-*/
+
 
 
 
