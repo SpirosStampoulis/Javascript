@@ -59,7 +59,7 @@ var jane = Object.create(personProto, {
 
 /////////////////////////////
 // Lecture: Primitives vs objects
-
+/*
 // Primitives
 var a = 23;
 var b = a;
@@ -95,7 +95,7 @@ change(age, obj);
 
 console.log(age);
 console.log(obj.city);
-
+*/
 
 
 
